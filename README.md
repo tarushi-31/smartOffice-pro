@@ -290,12 +290,6 @@ This project is licensed under the MIT License.
 - **TensorFlow** - AI/ML capabilities
 - **Framer Motion** - Smooth animations
 
-## 📞 **Support**
-
-For support and questions:
-- 📧 Email: support@smartoffice.pro
-- 📱 Phone: +1 (555) 123-4567
-- 🌐 Website: https://smartoffice.pro
 
 ---
 
